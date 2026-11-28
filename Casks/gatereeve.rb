@@ -1,8 +1,8 @@
 cask "gatereeve" do
-  version "0.1.0-rc.34"
-  sha256 "e4fe03580bce6cc633f4f2ca4455e9432e879d118ed56347860c663b4cb572b8"
+  version "0.1.0-rc.35"
+  sha256 "d532a406279768b724cd8bced8d6df2125b1662d1f0a8f787d3ea16e93241d50"
 
-  url "https://github.com/TrentBrown/gatereeve/releases/download/v0.1.0-rc.34/GateReeve-0.1.0-rc.34-macos-universal.dmg"
+  url "https://github.com/TrentBrown/gatereeve/releases/download/v0.1.0-rc.35/GateReeve-0.1.0-rc.35-macos-universal.dmg"
   name "GateReeve"
   desc "Visual companion for governed agentic development workflows"
   homepage "https://gatereeve.pages.dev/"
